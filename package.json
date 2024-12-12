@@ -14,7 +14,7 @@
   "dependencies": {
     "@react-native-clipboard/clipboard": "^1.10.0",
     "@react-navigation/bottom-tabs": "^6.3.2",
-    "@react-navigation/native": "^6.0.11",
+    "@react-navigation/native": "^7.0.14",
     "@react-navigation/native-stack": "^6.7.0",
     "buffer": "^6.0.3",
     "constants-browserify": "^1.0.0",
